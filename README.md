@@ -18,3 +18,4 @@ O mundo todo em um Pixel
   <img align="center" alt="Krita" src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B" />
   <img align="center" alt="Gimp" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" />
 </div><br/>
+Siga o canal "NascaED" no WhatsApp: https://whatsapp.com/channel/0029VaCaw3U65yD5Tx0uQk3c
